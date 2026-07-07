@@ -1,4 +1,4 @@
-# Password-Generator
+# Hexadecimal Password Generator
 A simple password generator using Hexadecimal
 
 |                |One Round                      |Two Rounds                  |
